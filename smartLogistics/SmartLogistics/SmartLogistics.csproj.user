@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddProductCameraCaptureFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AICreateModelFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BarcodeQRRecognizeFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FactoryAutomationInputFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FaMainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RobotArmControllerFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ImgDetailViewFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MachineMgtFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductCameraCaptureFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductCameraTestFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductMainFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductImgMgtFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductRegisterFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductRegisterSuccessFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProjectListFrm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

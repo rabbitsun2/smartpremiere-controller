@@ -1,0 +1,9 @@
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\OpenCvSharp.dll
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\OpenCvSharp.Extensions.dll
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\OpenCvSharp.WpfExtensions.dll
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\OpenCvSharpExtern.dll
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\SmartLogistics
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\SmartLogistics.dll
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\SmartLogistics.deps.json
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\SmartLogistics.runtimeconfig.json
+C:\Users\pc\source\repos\SmartLogistics\SmartLogistics\bin\Release\net6.0-windows\publish\linux-arm\SmartLogistics.pdb
